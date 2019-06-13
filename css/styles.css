@@ -1,0 +1,311 @@
+img{
+  width: 33.3%;
+  float: left;
+}
+.tagline{
+  font-family: 'Lobster', cursive;
+  text-align: center;
+  font-size: 3rem;
+}
+.home{
+  text-align: right;
+  color: white;
+  padding: 120px 20px 0px 0;
+  font-size: 1rem;
+  font-family: 'Merriweather', serif;
+  margin-bottom: -100px;
+  color: #cdffeb;
+}
+p{
+  font-family: 'Merriweather', serif;
+}
+.do{
+  font-family: 'Lobster', cursive;
+}
+h3{
+  font-family: 'Dancing Script', cursive;
+}
+h1{
+  font-family: 'Montserrat', sans-serif;
+}
+.social{
+  padding: 25px 0 0;
+  font-family: 'Dancing Script', cursive;
+
+}
+.top-container{
+  color: white;
+  background-color: black;
+  margin: 15px 0px -20px;
+}
+.logo{
+  width: 100%;
+  height: 50%;
+}
+.tedor{
+  background-color: #c1f6e7;
+  text-align: center;
+  margin: -50px 0 -10px;
+  padding-bottom: 10px;
+}
+.what{
+  font-size: 2rem;
+  padding: 0 0 -50px;
+}
+.paragraph{
+  padding: -500px 0 0;
+}
+.culture{
+  font-family: 'Lobster', cursive;
+}
+.art{
+  font-family: 'Lobster', cursive;
+}
+.collections{
+  text-align: center;
+
+}
+.love{
+  padding-top: 20px;
+  margin-top: 120px;
+}
+.coll{
+  background-color: black;
+  color: white;
+  margin: -80px 0 0 0;
+}
+.index{
+  background-color: black;
+  margin: -80px 0 0 0;
+}
+.bubble{
+  padding-bottom: 370px;
+  padding-top: 0px;
+}
+.gum{
+  margin: 100px 0 -4px;
+  padding-top: -20px;
+}
+.footer{
+  color: white;
+  font-size: 0.75rem;
+  padding: 70px 0px 0px;
+  text-align: center;
+  margin: 12px 0px 0px;
+}
+.footlink{
+  background-color: black;
+  color: white;
+  margin: -20px 0px 0px;
+}
+a{
+  color: white;
+}
+a:hover{
+  color: #10eaf0;
+}
+
+.btn {
+  background: #08AEEA;
+  background-image: -webkit-linear-gradient(top, #08AEEA, #2AF598);
+  background-image: -moz-linear-gradient(top, #08AEEA, #2AF598);
+  background-image: -ms-linear-gradient(top, #08AEEA, #2AF598);
+  background-image: -o-linear-gradient(top, #08AEEA, #2AF598);
+  background-image: linear-gradient(to bottom, #08AEEA, #2AF598);
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  -webkit-box-shadow: 0px 1px 3px #08AEEA;
+  -moz-box-shadow: 0px 1px 3px #08AEEA;
+  box-shadow: 0px 1px 3px #08AEEA;
+  font-family: Georgia;
+  color: #000000;
+  font-size: 20px;
+  text-shadow-color: ;
+  text-shadow-x: 1;
+  text-shadow-y: 1;
+  text-shadow-blur: 3;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #3cfa88;
+  background-image: -webkit-linear-gradient(top, #3cfa88, #3463d9);
+  background-image: -moz-linear-gradient(top, #3cfa88, #3463d9);
+  background-image: -ms-linear-gradient(top, #3cfa88, #3463d9);
+  background-image: -o-linear-gradient(top, #3cfa88, #3463d9);
+  background-image: linear-gradient(to bottom, #3cfa88, #3463d9);
+  text-decoration: none;
+  color: #000000;
+}
+
+
+.vibes1:hover{
+  opacity: 1;
+  transition: .5s ease;
+  backface-visibility: hidden;
+}
+.img1:hover .vibes1 {
+  opacity: 0.3;
+}
+.vibes2:hover{
+  opacity: 1;
+  transition: .5s ease;
+  backface-visibility: hidden;
+}
+.img2:hover .vibes2 {
+  opacity: 0.3;
+}
+.vibes3:hover{
+  opacity: 1;
+  transition: .5s ease;
+  backface-visibility: hidden;
+}
+.img3:hover .vibes3{
+  opacity: 0.3;
+}
+.bubble1:hover{
+  opacity: 1;
+  transition: .5s ease;
+  backface-visibility: hidden;
+}
+.img4:hover .bubble1{
+  opacity: 0.3;
+}
+.bubble2:hover{
+  opacity: 1;
+  transition: .5s ease;
+  backface-visibility: hidden;
+}
+.img5:hover .bubble2{
+  opacity: 0.3;
+}
+.bubble3:hover{
+  opacity: 1;
+  transition: .5s ease;
+  backface-visibility: hidden;
+}
+.img6:hover .bubble3{
+  opacity: 0.3;
+}
+.revolution1:hover{
+  opacity: 1;
+  transition: .5s ease;
+  backface-visibility: hidden;
+}
+.img7:hover .revolution1{
+  opacity: 0.3;
+}
+.revolution2:hover{
+  opacity: 1;
+  transition: .5s ease;
+  backface-visibility: hidden;
+}
+.img8:hover .revolution2{
+  opacity: 0.3;
+}
+.revolution3:hover{
+  opacity: 1;
+  transition: .5s ease;
+  backface-visibility: hidden;
+}
+.img9:hover .revolution3{
+  opacity: 0.3;
+}
+.child1:hover{
+  opacity: 1;
+  transition: .5s ease;
+  backface-visibility: hidden;
+}
+.img10:hover .child1{
+  opacity: 0.3;
+}
+.child2:hover{
+  opacity: 1;
+  transition: .5s ease;
+  backface-visibility: hidden;
+}
+.img11:hover .child2{
+  opacity: 0.3;
+}
+.child3:hover{
+  opacity: 1;
+  transition: .5s ease;
+  backface-visibility: hidden;
+}
+.img12:hover .child3{
+  opacity: 0.3;
+}
+.mischief1:hover{
+  opacity: 1;
+  transition: .5s ease;
+  backface-visibility: hidden;
+}
+.img13:hover .mischief1{
+  opacity: 0.3;
+}
+.mischief2:hover{
+  opacity: 1;
+  transition: .5s ease;
+  backface-visibility: hidden;
+}
+.img14:hover .mischief2{
+  opacity: 0.3;
+}
+.mischief3:hover{
+  opacity: 1;
+  transition: .5s ease;
+  backface-visibility: hidden;
+}
+.img15:hover .mischief3{
+  opacity: 0.3;
+}
+.dede1:hover{
+  opacity: 1;
+  transition: .5s ease;
+  backface-visibility: hidden;
+}
+.img16:hover .dede1{
+  opacity: 0.3;
+}
+.dede2:hover{
+  opacity: 1;
+  transition: .5s ease;
+  backface-visibility: hidden;
+}
+.img17:hover .dede2{
+  opacity: 0.3;
+}
+.dede3:hover{
+  opacity: 1;
+  transition: .5s ease;
+  backface-visibility: hidden;
+}
+.img18:hover .dede3{
+  opacity: 0.3;
+}
+.scales1:hover{
+  opacity: 1;
+  transition: .5s ease;
+  backface-visibility: hidden;
+}
+.img19:hover .scales1{
+  opacity: 0.3;
+}
+.scales2:hover{
+  opacity: 1;
+  transition: .5s ease;
+  backface-visibility: hidden;
+}
+.img20:hover .scales2{
+  opacity: 0.3;
+}
+.scales3:hover{
+  opacity: 1;
+  transition: .5s ease;
+  backface-visibility: hidden;
+}
+.img21:hover .scales3{
+  opacity: 0.3;
+}
